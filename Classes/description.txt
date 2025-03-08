@@ -1,0 +1,33 @@
+Happy Halloween :D
+
+The Slender Goat is out tonight, and you should better pray not to be on his way...
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Slender Survival: Try to survive as long as possible into darkness with a Slender Goat chasing you.
+
+[b]CHARACTERISTICS[/b]
+- You will see darkness on any map where you use this mod.
+- When a round start the Slender Goat is far away from you.
+- The Slender Goat teleport randomly on the map to get closer and closer to you. 
+- The Slender Goat attack you on sight.
+- The Slender Goat is immune to almost everything and teleport if he takes damages.
+- If the Slender Goat catch you, your soul is destroyed by his powers and a new round begin.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Combine this mod with the First Person Camera for an even more scary experience![/spoiler]
+- [spoiler]You can hear whispers when the Slender Goat teleport.[/spoiler]
+- [spoiler]Humans fear the Slender Goat even if he will not attack them.[/spoiler]
+- [spoiler]If you manage to hit the Slender Goat yourself, the round will restart and you will get a nice score reward.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- When you come back to the menu, the darkness effect is still active on the map. Restart your game to fix this.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Many people asked for some special mod for Halloween, and here is my answer ^^
+As you will probably notice if you already played on the City Bay map, this mod is hugely inspired by the graveyard of this map. The first thing I did was to find and reproduce the darkness effect and the ambient souds used in the graveyard to apply them everywhere.
+Then I created the Slender Goat using the characteristics of the one present in the graveyard (basically a Ripped Goat crossed with a Space Goat). Then I added a custom AI that reuse some of the behaviours of the Zombies and add some brand new stuff like the ability to teleport.
+As I couldn't reproduce the "move only when out of view" behaviour, I tried to find a mechanism that could work in third person view and ended up with something really similar to the AI of Minecraft's Endermens.
+Also I replaced the "game over" sequence when you lost in the original game by a custom "broken mind" animation that makes you lost completely the control of your body.
+[/quote]
